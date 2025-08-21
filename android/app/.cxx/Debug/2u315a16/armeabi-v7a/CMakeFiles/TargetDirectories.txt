@@ -1,0 +1,2 @@
+C:/Users/AMTECH_LTD/StudioProjects/vcard/android/app/.cxx/Debug/2u315a16/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/AMTECH_LTD/StudioProjects/vcard/android/app/.cxx/Debug/2u315a16/armeabi-v7a/CMakeFiles/rebuild_cache.dir

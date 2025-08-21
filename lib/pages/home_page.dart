@@ -6,11 +6,9 @@ import 'package:go_router/go_router.dart';
 import 'package:google_mlkit_text_recognition/google_mlkit_text_recognition.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
-import 'package:vcard/models/contact_model.dart';
 import 'package:vcard/pages/contact_detail_page.dart';
 import 'package:vcard/pages/scan_page.dart';
 import 'package:vcard/providers/contact_provider.dart';
-import 'package:vcard/utils/constants.dart';
 import 'package:vcard/utils/helper_function.dart';
 
 class HomePage extends StatefulWidget {

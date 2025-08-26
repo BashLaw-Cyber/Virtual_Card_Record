@@ -26,13 +26,13 @@ A simple and secure **virtual card keeping app** that allows users to store, org
 
 ## 📸 Screenshots
 
-![Home Screen](lib\screenshots\homepage.png)  
-![Add Card](lib\screenshots\addcard.png)
-![Pick/Scan Card](lib\screenshots\pickimage.png)
-![Extracted Card Info](lib\screenshots\extractedInfo.png)
-![Extracted Card Info Edition](lib\screenshots\infoEdition.png)
-![Contact/Card List](lib\screenshots\contactlist.png)
-![Contact/Card Detail](lib\screenshots\contactDetail.png)
+![Home Screen](lib/screenshots/homepage.png)  
+![Add Card](lib/screenshots/addcard.png)
+![Pick/Scan Card](lib/screenshots/pickimage.png)
+![Extracted Card Info](lib/screenshots/extractedInfo.png)
+![Extracted Card Info Edition](lib/screenshots/infoEdition.png)
+![Contact/Card List](lib/screenshots/contactlist.png)
+![Contact/Card Detail](lib/screenshots/contactDetail.png)
 
 ---
 

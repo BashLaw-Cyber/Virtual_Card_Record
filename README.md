@@ -40,8 +40,8 @@ A simple and secure **virtual card keeping app** that allows users to store, org
 
 - **GIF Example:**
 
-![App Demo](lib\screenshots\vcardGif.gif)
-![App Demo](lib\screenshots\vcardGif2.gif)
+![App Demo](lib/screenshots/vcardGif.gif)
+![App Demo](lib/screenshots/vcardGif2.gif)
 
 ---
 
